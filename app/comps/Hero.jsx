@@ -29,7 +29,7 @@ export default function Hero() {
           <h2 className="role"> Front-end Shopify developer based in Morocco </h2>
           <div className="py-4"> <small>Remote freelancer</small> </div>
           <div className="max-w-[400px] mt-24"> <small>
-            Hey there! I'm a Shopify developer with over two years of experience under my belt. I love diving into Figma designs and bringing them to life on Shopify - it's like turning creativity into reality! One of my coolest projects involved building a discount app for a client using Shopify extensions. I'm really good at hunting down bugs and finding creative solutions to tricky coding problems in Shopify.
+            Hey there! I'm a Shopify developer with over two years of experience under my belt. I specialize in Shopify customization and maintenance. Recently, I've been working with the Shopify Functions API and extensions, and I helped a client create a discount app
 
           </small> </div>
           <Marquee />
